@@ -44,4 +44,11 @@ Analyze how market sentiment impacts trader performance and build predictive + b
    jupyter notebook analysis.ipynb
 
 3. (Optional) Run dashboard:
+
    streamlit run app.py
+
+
+## Data Note
+
+Due to file size limitations, the raw dataset is not included in this repository.
+Please contact me if access to the dataset is required.
